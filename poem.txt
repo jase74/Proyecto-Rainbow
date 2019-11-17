@@ -1,4 +1,8 @@
+The rainbow colors.
+red
+orange
+yellow
 green
 blue
-red 
-yellow
+purple
+pink
